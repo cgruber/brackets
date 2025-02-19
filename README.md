@@ -1,2 +1,2 @@
-# brackets
-A simple toy to check balanced brackets in different programming languages.
+# Brackets
+A simple toy to check balanced brackets, implemented in different programming languages.
